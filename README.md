@@ -25,10 +25,10 @@ The website is designed to be simple, user-friendly, and visually appealing.
 
 ##  Website Structure
 
-- **index.html** → Main homepage with navigation, about, projects, and contact sections :contentReference[oaicite:0]{index=0}  
-- **portfolio_projects.html** → Detailed explanation of portfolio project :contentReference[oaicite:1]{index=1}  
-- **projects.html** → Java project (Blood Donation System) description :contentReference[oaicite:2]{index=2}  
-- **style.css** → Styling and layout of the entire website :contentReference[oaicite:3]{index=3}  
+- index.html → Main homepage with navigation, about, projects, and contact sections   
+- portfolio_projects.html → Detailed explanation of portfolio project   
+- projects.html → Java project (Blood Donation System) description  
+- style.css → Styling and layout of the entire website
 
 ---
 
