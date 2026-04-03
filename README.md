@@ -57,7 +57,7 @@ The website is designed to be simple, user-friendly, and visually appealing.
 
 ##  Contact
 
-- 📧 Email: msmydhily288@gmail.com  
+-  Email: msmydhily288@gmail.com  
 - 🔗 GitHub: https://github.com/mydhilyms   
 
 ---
