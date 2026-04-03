@@ -26,4 +26,4 @@ https://github.com/mydhilyms/My-Portfolio
 
 ## Contact
 - GitHub: https://github.com/mydhilyms
-- LinkedIn: https://www.linkedin.com/in/mydhily-ms-505818372
+- Email: msmydhily288@gmail.com
